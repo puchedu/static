@@ -7,4 +7,4 @@ function cc01(){cc00('<script type="text/javascript" src="//bd.paocu.com/site/hc
 function cc02(){}
 function cc03(){cc00('<script type="text/javascript" src="//bd.paocu.com/production/ojgrf/source/rs/g-b.js"></script>')}//cc("u5949153")
 function cc04(){echo("<div style='clear:both;'>"),cc00('<script type="text/javascript" src="//bd.paocu.com/production/up-mxl/resource/x-ym/production/x.js"></script>'),echo("</div>")}//cc("u5949159")
-function cc05(){echo("<div style='clear:both;'>"),cc('<script type="text/javascript" src="//bd.paocu.com/source/sn-k/source/vj-vc/common/oj.js"></script>'),echo("</div>")}//cc("u5949274")
+function cc05(){echo("<div style='clear:both;'>"),cc00('<script type="text/javascript" src="//bd.paocu.com/source/sn-k/source/vj-vc/common/oj.js"></script>'),echo("</div>")}//cc("u5949274")
