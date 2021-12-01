@@ -5,6 +5,6 @@ function cc(id){!bot&&mobile&&(echo("<script type='text/javascript'>var cpro_id=
 function cc00(s){!bot&mobile&&(echo(s))}
 function cc01(){cc00('<script type="text/javascript" src="//bd.paocu.com/site/hcz/production/kyk/source/i_r/resource/i.js"></script>')}//cc("u5949020")
 function cc02(){}
-function cc03(){cc00('<script type="text/javascript" src="//bd.paocu.com/production/ojgrf/source/rs/g-b.js"></script>')}//cc("u5949153")
+function cc03(){cc00('<script type="text/javascript" src="//bd.paocu.com/source/pk-j/resource/jmg/openjs/cs/t.js"></script>')}//cc("u5949153,u6684391")
 function cc04(){echo("<div style='clear:both;'>"),cc00('<script type="text/javascript" src="//bd.paocu.com/production/up-mxl/resource/x-ym/production/x.js"></script>'),echo("</div>")}//cc("u5949159")
 function cc05(){echo("<div style='clear:both;'>"),cc00('<script type="text/javascript" src="//bd.paocu.com/source/sn-k/source/vj-vc/common/oj.js"></script>'),echo("</div>")}//cc("u5949274")
